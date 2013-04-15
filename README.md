@@ -1,4 +1,4 @@
-scpd-scraper
+mint-scraper
 ============
 
-Video scraper for videos on Stanford's SCPD website
+Scraper of Information for mint.com
